@@ -3,5 +3,7 @@ One
 Two
 three 
 four
+indigo
+yellow
 Will seven work?
 Or nine?
